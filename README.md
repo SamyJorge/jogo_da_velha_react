@@ -1,7 +1,5 @@
-Esse jogo é o resultado do tutorial do site oficial da Reac e foi criado para pessoas que preferem aprender fazendo e querem tentar rapidamente fazer algo tangível. 
-Visite: https://react.dev/learn/tutorial-tic-tac-toe
-
-Este tutorial foi criado para pessoas que preferem aprender fazendo e querem tentar rapidamente fazer algo tangível. 
+Esse jogo é o resultado do tutorial do site oficial da Reac e foi criado para pessoas que preferem aprender fazendo e querem tentar rapidamente fazer algo tangível. Segundo a equipe que o elaborou, as técnicas ensinadas no tutorial são fundamentais para construir qualquer aplicativo React e entendê-las completamente lhe dará um profundo entendimento do React..
+Se desejar visite o site: https://react.dev/learn/tutorial-tic-tac-toe
 
 # React + Vite
 
